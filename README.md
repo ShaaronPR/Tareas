@@ -5,7 +5,7 @@ Sistemas Programables
 
 
 ### Unidad I. Sensores
-> :page_with_curl: [C0.1_Integrar Equipos de Trabajo](blob/main/C0.1_TituloActividad_NombreAlumno.md)
+> :page_with_curl: [C0.1_Integrar Equipos de Trabajo](https://github.com/ShaaronPR/Sistemas-Programables/blob/main/C0.1_TituloActividad_NombreAlumno.md)
 > 
 > .
 > 
