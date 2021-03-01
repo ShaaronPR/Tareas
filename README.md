@@ -1,7 +1,7 @@
 # Tareas
 Sistemas Programables
 
-![Portada](https://github.com/ShaaronPR/Tareas/blob/main/img/Picture1-Copy.png)
+![Portada](https://github.com/ShaaronPR/Tareas/blob/main/img/Picture1%20-%20Copy.png)
 
 
 ### Unidad 1
