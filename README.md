@@ -4,13 +4,15 @@ Sistemas Programables
 ![Portada](https://github.com/ShaaronPR/Tareas/blob/main/img/Picture1%20-%20Copy.png)
 
 
-### Unidad 1
+### Unidad I. Sensores
 
 
-### Unidad 2
+### Unidad II. Actuadores
 
-### Unidad 3
+### Unidad III. Microcontroladores
 
-### Unidad 4
+### Unidad IV. Programación de microcontroladores
 
-### Unidad 5
+### Unidad V. Puertos y buses de comunicación para microcontroladores.
+
+### Unidad VI. Interfaces
