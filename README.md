@@ -11,9 +11,9 @@ Sistemas Programables
 > 
 > :page_with_curl: [C1.2 Circuito electrónico básico](https://github.com/ShaaronPR/Tareas/blob/main/blog/C1.2_Circuito_electr%C3%B3nico_b%C3%A1sico-Porras_Rangel_Shaaron.md)
 > 
-> .
+> :page_with_curl: [C1.2 Circuito electrónico básico](https://github.com/ShaaronPR/Tareas/blob/main/blog/C1.3%20Circuito%20electr%C3%B3nico%20divisor%20de%20tensi%C3%B3n_ShaaronPorras.md)
 > 
-> .
+> :page_with_curl: [C1.2 Circuito electrónico básico](ht)
 > 
 > .
 
