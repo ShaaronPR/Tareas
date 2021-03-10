@@ -17,15 +17,16 @@ ___
 
 
 ``` 
-| readme.md
-| | blog
-| | | C1.1_TituloActividad.md
-| | | C1.2_TituloActividad.md
-| | | C1.3_TituloActividad.md
-| | img
-| | docs
-| | | A1.1_TituloActividad.md
-| | | A1.2_TituloActividad.md
+  - readme.md
+     - blog
+        - C0.1_x.md
+        - C0.2_x.md
+      - img
+      - docs
+         - A0.1_x.md
+         - A0.2_x.md
+         - A1.2_x.md
+         - A1.3_x.md
 ```
 
 ### :pencil2: Desarrollo
