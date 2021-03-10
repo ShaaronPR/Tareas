@@ -38,6 +38,13 @@ ___
 
 1. Utilice el siguiente listado de materiales para la elaboración de la actividad y agregue en la columna Fuente de consulta su enlace bibliográfico.
 
+| **Cantidad ** | **Descripción**                   | **Fuente de consulta**       |
+|---------------|-----------------------------------|------------------------------|
+| 1		          | Sensor Fotoresistencia LDR de 2M	|   |
+| 1		          | Resistencia 1k                    |   |
+| 1		          | Fuente de alimentación de 5v.     |   |
+
+
 2. Considerando que el elemento LDR es un sensor fotoresistivo es decir varia su resistencia en base a la cantidad de luz que incide sobre el, **Que observa en el grafico siguiente?**
 
 3. Ensamble el circuito que se muestra utilizado el simulador que halla considerado, colocando la fotorresistencia en la posición LDR y resistencia de acuerdo con la imagen del esquemático:
