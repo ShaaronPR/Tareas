@@ -38,7 +38,7 @@ ___
 
 1. Utilice el siguiente listado de materiales para la elaboración de la actividad y agregue en la columna Fuente de consulta su enlace bibliográfico.
 
-| **Cantidad ** | **Descripción**                   | **Fuente de consulta**       |
+| **Cantidad** | **Descripción**                   | **Fuente de consulta**       |
 |---------------|-----------------------------------|------------------------------|
 | 1		          | Sensor Fotoresistencia LDR de 2M	|   |
 | 1		          | Resistencia 1k                    |   |
