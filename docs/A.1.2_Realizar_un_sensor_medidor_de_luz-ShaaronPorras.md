@@ -57,6 +57,12 @@ ___
 
 7. Calcule el **valor de exactitud** de voltaje entre lo teórico y lo medido para cada condición y registre en la tabla correspondiente.
 
+| Numero 	         | Condición    | Impedancia en fotoresistencia | Voltaje Vout teórico  | Voltaje Vout medido  | % V.Medido/ V.Teórico  |
+|------------------|--------------|-------------------------------|-----------------------|----------------------|------------------------|
+| Ausencia de luz  | | | | | |
+| Luz ambiental	   | | | | | |
+| Luz intensa	     | | | | | |
+
 8. **Grafique** a través de los valores registrados en la tabla anterior de tal manera que se pueda observar el comportamiento de la curva del componente LDR e **inserte la grafica**.
 
 9. Inserte imágenes de **evidencias** tales como son reuniones de los integrantes del equipo realizadas para el desarrollo de la actividad
