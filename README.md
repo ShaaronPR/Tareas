@@ -13,7 +13,7 @@ Sistemas Programables
 > 
 > :page_with_curl: [C1.3 Circuito electrónico divisor de tensión](https://github.com/ShaaronPR/Tareas/blob/main/blog/C1.3_Circuito_electr%C3%B3nico_divisor_de_tensi%C3%B3n_ShaaronPorras.md)
 > 
-> :page_with_curl: [A.1.2 Realizar un sensor medidor de luz (lux) a través de un circuito electrónico, utilizando un simulador, y un LDR (Light dependent Resistor)](https://github.com/ShaaronPR/Sistemas-Programables/blob/main/A1.2_NombreApellido_Sistematicos.md)
+> :page_with_curl: [A.1.2 Realizar un sensor medidor de luz (lux) a través de un circuito electrónico, utilizando un simulador, y un LDR (Light dependent Resistor)](https://github.com/ShaaronPR/Tareas/blob/main/docs/A1.2_ShaaronPorras_Sistematicos.md)
 > 
 > :page_with_curl: [.](ht)
 >
