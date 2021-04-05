@@ -19,9 +19,9 @@ Sistemas Programables
 >
 > :page_with_curl: [C1.5 Tipo de sensores de acuerdo con su uso aplicativo.](https://github.com/ShaaronPR/Tareas/blob/main/blog/C1.5_Tipo_de_sensores_de_acuerdo_con_su_uso_aplicativo_ShaaronPorras.md)
 > 
-> :page_with_curl: [.](ht)
+> :page_with_curl: [A.1.3  Realizar una investigación y presentación para ser expuesta en clase sobre el tema de sensores.](https://github.com/ShaaronPR/Sistemas-Programables/blob/main/A1.3_NombreApellido_Sistematicos.md)
 > 
-> :page_with_curl: [.](ht)
+> :page_with_curl: [ A.1.4 Realizar un sensor medidor de temperatura a través de un circuito electrónico, utilizando un simulador, y un Transistor TMP36.](hhttps://github.com/ShaaronPR/Sistemas-Programables/blob/main/A1.4_NombreApellido_Sistematicos.md)
 > 
 > :page_with_curl: [.](ht)
 > 
