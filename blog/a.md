@@ -82,3 +82,84 @@ ___
 📑 [Blog](https://github.com/ShaaronPR/Tareas/tree/main/blog)
 
 🏠 [Ir a inicio](https://github.com/ShaaronPR/Tareas)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+--------------------------------------------------
+# TAREA. C2.1 Cuestionario Actuadores y su clasificación.
+
+Actuarores
+___
+
+## 🏆 C2.1 Reto en clase
+
+> Fecha de entrega: Sabado 24 de Abril del 2021.
+> 
+
+Actuadores Neumatico e Hidraulicos, y sus tipos
+
+### 📘 Instrucciones
+
+De acuerdo con la información presentada por el asesor referente al tema actuadores y a los videos observados sobre el mismo tema, elabore lo que se solicita dentro del apartado desarrollo.
+Toda actividad o reto se deberá realizar utilizando el estilo MarkDown con extension .md y el entorno de desarrollo VSCode, debiendo ser elaborado como un documento single page, es decir si el documento cuanta con imágenes, enlaces o cualquier documento externo debe ser accedido desde etiquetas y enlaces.
+Es requisito que el archivo .md contenga una etiqueta del enlace al repositorio de su documento en Github, por ejemplo Enlace a mi GitHub
+Al concluir el reto el reto se deberá subir a github el archivo .md creado.
+Desde el archivo .md se debe exportar un archivo .pdf con la nomenclatura C2.1_TituloActividad_NombreAlumno.pdf, el cual deberá subirse a classroom dentro de su apartado
+correspondiente, para que sirva como evidencia de su entrega; siendo esta plataforma oficial aquí se recibirá la calificación de su actividad por individual.
+Considerando que el archivo .pdf, fue obtenido desde archivo .md, ambos deben ser idénticos y mostrar el mismo contenido.
+Su repositorio ademas de que debe contar con un archivo readme.md dentro de su directorio raíz, con la información como datos del estudiante, equipo de trabajo, materia, carrera, datos del asesor, e incluso logotipo o imágenes, debe tener un apartado de contenidos o indice, los cuales realmente son ligas o enlaces a sus documentos .md, evite utilizar texto para indicar enlaces internos o externo.
+Se propone una estructura tal como esta indicada abajo, sin embargo puede utilizarse cualquier otra que le apoye para organizar su repositorio.
+
+| readme.md
+| | blog
+| | | C2.1_TituloActividad.md
+| | | C2.2_TituloActividad.md
+| | | C2.3_TituloActividad.md
+| | img
+| | docs
+| | | A2.1_TituloActividad.md
+| | | A2.2_TituloActividad.md
+
+Desarrollo
+
+C2.1_ActuadoresNeumaticosHidraulicos.md 4/12/2021
+
+2 / 2
+
+Listado de preguntas:
+1. Basándose en el video actuadores en Robótica, realice un cuadro sinóptico sobre la clasificación de los
+actuadores.
+2. De acuerdo con el video descripcion de los actuadores industriales realice una matriz comparativa
+indicando clasificacion, subclasificacion, principio de funcionamiento, ventajas y desventajas.
+3. De acuerdo con el video Neumática Industrial, explique como trabaja un sistema Neumático?
+Rubrica
+Criterios Descripción Puntaje
+Instrucciones
+
+Se cumple con cada uno de los puntos indicados dentro del apartado
+Instrucciones?
+
+20
+
+Desarrollo
+
+Se respondió a cada uno de los puntos solicitados dentro del desarrollo de la
+actividad?
+
+
+
+
+
+
+
