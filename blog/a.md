@@ -1,7 +1,6 @@
 # TAREA. C2.1 Cuestionario Actuadores y su clasificación.
 
 ## Actuarores
-___
 
 ## 🏆 C2.1 Reto en clase
 
