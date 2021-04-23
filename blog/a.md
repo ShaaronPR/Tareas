@@ -99,7 +99,7 @@ ___
 --------------------------------------------------
 # TAREA. C2.1 Cuestionario Actuadores y su clasificación.
 
-Actuarores
+### Actuarores
 ___
 
 ## 🏆 C2.1 Reto en clase
@@ -111,16 +111,16 @@ Actuadores Neumatico e Hidraulicos, y sus tipos
 
 ### 📘 Instrucciones
 
-De acuerdo con la información presentada por el asesor referente al tema actuadores y a los videos observados sobre el mismo tema, elabore lo que se solicita dentro del apartado desarrollo.
-Toda actividad o reto se deberá realizar utilizando el estilo MarkDown con extension .md y el entorno de desarrollo VSCode, debiendo ser elaborado como un documento single page, es decir si el documento cuanta con imágenes, enlaces o cualquier documento externo debe ser accedido desde etiquetas y enlaces.
-Es requisito que el archivo .md contenga una etiqueta del enlace al repositorio de su documento en Github, por ejemplo Enlace a mi GitHub
-Al concluir el reto el reto se deberá subir a github el archivo .md creado.
-Desde el archivo .md se debe exportar un archivo .pdf con la nomenclatura C2.1_TituloActividad_NombreAlumno.pdf, el cual deberá subirse a classroom dentro de su apartado
-correspondiente, para que sirva como evidencia de su entrega; siendo esta plataforma oficial aquí se recibirá la calificación de su actividad por individual.
-Considerando que el archivo .pdf, fue obtenido desde archivo .md, ambos deben ser idénticos y mostrar el mismo contenido.
-Su repositorio ademas de que debe contar con un archivo readme.md dentro de su directorio raíz, con la información como datos del estudiante, equipo de trabajo, materia, carrera, datos del asesor, e incluso logotipo o imágenes, debe tener un apartado de contenidos o indice, los cuales realmente son ligas o enlaces a sus documentos .md, evite utilizar texto para indicar enlaces internos o externo.
-Se propone una estructura tal como esta indicada abajo, sin embargo puede utilizarse cualquier otra que le apoye para organizar su repositorio.
+- De acuerdo con la información presentada por el asesor referente al tema actuadores y a los videos observados sobre el mismo tema, elabore lo que se solicita dentro del apartado desarrollo.
+- Toda actividad o reto se deberá realizar utilizando el estilo MarkDown con extension .md y el entorno de desarrollo VSCode, debiendo ser elaborado como un documento single page, es decir si el documento cuanta con imágenes, enlaces o cualquier documento externo debe ser accedido desde etiquetas y enlaces.
+- Es requisito que el archivo .md contenga una etiqueta del enlace al repositorio de su documento en Github, por ejemplo Enlace a mi GitHub 
+- Al concluir el reto el reto se deberá subir a github el archivo .md creado.
+- Desde el archivo .md se debe exportar un archivo .pdf con la nomenclatura C2.1_TituloActividad_NombreAlumno.pdf, el cual deberá subirse a classroom dentro de su apartado correspondiente, para que sirva como evidencia de su entrega; siendo esta plataforma oficial aquí se recibirá la calificación de su actividad por individual.
+- Considerando que el archivo .pdf, fue obtenido desde archivo .md, ambos deben ser idénticos y mostrar el mismo contenido.
+- Su repositorio ademas de que debe contar con un archivo readme.md dentro de su directorio raíz, con la información como datos del estudiante, equipo de trabajo, materia, carrera, datos del asesor, e incluso logotipo o imágenes, debe tener un apartado de contenidos o indice, los cuales realmente son ligas o enlaces a sus documentos .md, evite utilizar texto para indicar enlaces internos o externo.
+- Se propone una estructura tal como esta indicada abajo, sin embargo puede utilizarse cualquier otra que le apoye para organizar su repositorio.
 
+```
 | readme.md
 | | blog
 | | | C2.1_TituloActividad.md
@@ -130,6 +130,7 @@ Se propone una estructura tal como esta indicada abajo, sin embargo puede utiliz
 | | docs
 | | | A2.1_TituloActividad.md
 | | | A2.2_TituloActividad.md
+```
 
 Desarrollo
 
