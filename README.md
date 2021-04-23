@@ -23,11 +23,12 @@ Sistemas Programables
 > 
 > 📖 [A.1.4 Realizar un sensor medidor de temperatura a través de un circuito electrónico, utilizando un simulador, y un Transistor TMP36](https://github.com/ShaaronPR/Sistemas-Programables/blob/main/A1.4_NombreApellido_Sistematicos.md)
 > 
-> :page_with_curl: [.](ht)
-> 
-
 
 ### Unidad II. Actuadores
+> :page_with_curl: [C2.1 Cuestionario Actuadores y su clasificación](ht)
+> 
+> :page_with_curl: [C2.2 Cuestionario Actuadores Eléctricos](ht)
+> 
 
 ### Unidad III. Microcontroladores
 
