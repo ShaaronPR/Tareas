@@ -37,8 +37,8 @@ ___
 
 Listado de preguntas:
 1. Basándose en el video [actuadores en Robótica](https://www.youtube.com/watch?v=e_6rjEGWqoY), realice un cuadro sinóptico sobre la clasificación de los actuadores.
-2. De acuerdo con el video (descripcion de los actuadores industriales)[https://www.youtube.com/watch?v=mFsPxpFHajM] realice una matriz comparativa indicando clasificacion, subclasificacion, principio de funcionamiento, ventajas y desventajas.
-3. De acuerdo con el video (Neumática Industrial)[https://www.youtube.com/watch?v=Wee85cI6wwQ&t=394s], explique como trabaja un sistema Neumático?
+2. De acuerdo con el video [descripcion de los actuadores industriales](https://www.youtube.com/watch?v=mFsPxpFHajM) realice una matriz comparativa indicando clasificacion, subclasificacion, principio de funcionamiento, ventajas y desventajas.
+3. De acuerdo con el video [Neumática Industrial](https://www.youtube.com/watch?v=Wee85cI6wwQ&t=394s), explique como trabaja un sistema Neumático?
 
 
 ### 💣 Rubrica
