@@ -25,9 +25,15 @@ Sistemas Programables
 > 
 
 ### Unidad II. Actuadores
-> 📑 [C2.1 Cuestionario Actuadores y su clasificación](ht)
+> 📑 [C2.1 Cuestionario Actuadores y su clasificación](https://github.com/ShaaronPR/Tareas/blob/main/blog/C2.1_Cuestionario_Actuadores_y_su_clasificaci%C3%B3n-ShaaronPorras.md)
 > 
-> 📑 [C2.2 Cuestionario Actuadores Eléctricos](ht)
+> 📑 [C2.2 Cuestionario Actuadores Eléctricos](https://github.com/ShaaronPR/Tareas/blob/main/blog/C2.2_Cuestionario_Actuadores_El%C3%A9ctricos-ShaaronPorras.md)
+> 
+> [.]()
+> 
+> [.]()
+>
+> [.]()
 > 
 
 ### Unidad III. Microcontroladores
