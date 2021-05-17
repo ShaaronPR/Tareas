@@ -34,11 +34,16 @@ Sistemas Programables
 > 📑 [C2.3 Circuito temporizador 555](https://github.com/ShaaronPR/Tareas/blob/main/blog/C2.3_Circuito_temporizador_555-ShaaronPorras.md)
 > 
 > 📖 [A2.2 Circuito temporizador 555 y motor eléctrico](http://github.com/ShaaronPR/Sistemas-Programables/blob/main/A2.2_NombreApellido_Sistematicos.md)
->
-> [.]()
 > 
 
 ### Unidad III. Microcontroladores
+>
+> [.]()
+>
+> [.]()
+>
+> [.]()
+> 
 
 ### Unidad IV. Programación de microcontroladores
 
