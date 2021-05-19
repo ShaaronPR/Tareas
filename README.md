@@ -38,7 +38,7 @@ Sistemas Programables
 
 ### Unidad III. Microcontroladores
 >
-> [.]()
+> [C3.1 Arduino IDE Salida Digital](https://github.com/ShaaronPR/Tareas/blob/main/blog/C3.1_Arduino_IDE_Salida_Digital.md)
 >
 > [.]()
 >
