@@ -38,13 +38,18 @@ Sistemas Programables
 
 ### Unidad III. Microcontroladores
 >
-> [C3.1 Arduino IDE Salida Digital](https://github.com/ShaaronPR/Tareas/blob/main/blog/C3.1_Arduino_IDE_Salida_Digital.md)
+> 📑 [C3.1 Arduino IDE Salida Digital](https://github.com/ShaaronPR/Tareas/blob/main/blog/C3.1_Arduino_IDE_Salida_Digital.md)
 >
-> [.]()
+> 📑 [C3.2 Arduino IDE Entrada Digital e impresion serial]()
 >
+> 📑 [C3.3 Arduino IDE Entrada Analoga y funcion serial]()
+> 
+> 📑 [C3.4 Arduino IDE Entrada Salida, sensor y funcion serial]()
+> 
+> 📖 [A.3.1 Circuito sensor de deteccion de objetos]()
+> 
 > [.]()
 > 
-
 ### Unidad IV. Programación de microcontroladores
 
 ### Unidad V. Puertos y buses de comunicación para microcontroladores.
