@@ -42,7 +42,7 @@ Sistemas Programables
 >
 > 📑 [C3.2 Arduino IDE Entrada Digital e impresion serial](https://github.com/ShaaronPR/Tareas/blob/main/blog/C3.2_Arduino_IDE_Entrada_Digital_e_impresion_serial.md)
 >
-> 📑 [C3.3 Arduino IDE Entrada Analoga y funcion serial]()
+> 📑 [C3.3 Arduino IDE Entrada Analoga y funcion serial](https://github.com/ShaaronPR/Tareas/blob/main/blog/C3.3_Arduino_IDE_Entrada_Analoga_y_funcion_serial.md)
 > 
 > 📑 [C3.4 Arduino IDE Entrada Salida, sensor y funcion serial]()
 > 
