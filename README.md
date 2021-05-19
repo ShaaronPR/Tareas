@@ -44,7 +44,7 @@ Sistemas Programables
 >
 > 📑 [C3.3 Arduino IDE Entrada Analoga y funcion serial](https://github.com/ShaaronPR/Tareas/blob/main/blog/C3.3_Arduino_IDE_Entrada_Analoga_y_funcion_serial.md)
 > 
-> 📑 [C3.4 Arduino IDE Entrada Salida, sensor y funcion serial]()
+> 📑 [C3.4 Arduino IDE Entrada Salida, sensor y funcion serial](https://github.com/ShaaronPR/Tareas/blob/main/blog/C3.4_Arduino_IDE_Entrada_Salida%2C_sensor_y_funcion_serial.md)
 > 
 > 📖 [A.3.1 Circuito sensor de deteccion de objetos]()
 > 
