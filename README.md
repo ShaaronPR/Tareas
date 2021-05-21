@@ -46,11 +46,11 @@ Sistemas Programables
 > 
 > 📑 [C3.4 Arduino IDE Entrada Salida, sensor y funcion serial](https://github.com/ShaaronPR/Tareas/blob/main/blog/C3.4_Arduino_IDE_Entrada_Salida%2C_sensor_y_funcion_serial.md)
 > 
-> 📖 [A.3.1 Circuito sensor de deteccion de objetos]()
+> 📖 [A.3.1 Circuito sensor de deteccion de objetos](https://github.com/ShaaronPR/Sistemas-Programables/blob/main/A3.1_NombreApellido_Sistematicos.md)
 > 
-> 📖 [A3.2 Circuito y programacion de un sensor de tactor con NodeMCU ESP32]()
+> 📖 [A3.2 Circuito y programacion de un sensor de tactor con NodeMCU ESP32](https://github.com/ShaaronPR/Sistemas-Programables/blob/main/A3.2_NombreApellido_Sistematicos.md)
 >
-> 📖 [A3.3 Circuito de medicion de temperatura a traves de un NodeMCU ESP32]()
+> 📖 [A3.3 Circuito de medicion de temperatura a traves de un NodeMCU ESP32](https://github.com/ShaaronPR/Sistemas-Programables/blob/main/A3.3_NombreApellido_Sistematicos.md)
 > 
 > [.]()
 > 
