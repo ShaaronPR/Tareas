@@ -48,8 +48,13 @@ Sistemas Programables
 > 
 > 📖 [A.3.1 Circuito sensor de deteccion de objetos]()
 > 
+> 📖 [A3.2 Circuito y programacion de un sensor de tactor con NodeMCU ESP32]()
+>
+> 📖 [A3.3 Circuito de medicion de temperatura a traves de un NodeMCU ESP32]()
+> 
 > [.]()
 > 
+
 ### Unidad IV. Programación de microcontroladores
 
 ### Unidad V. Puertos y buses de comunicación para microcontroladores.
