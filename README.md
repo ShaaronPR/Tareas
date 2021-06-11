@@ -5,7 +5,7 @@ Sistemas Programables
 
 
 ### Unidad I. Sensores
-> 📑 [C0.1_Integrar Equipos de Trabajo](https://github.com/ShaaronPR/Sistemas-Programables/blob/main/C0.1_TituloActividad_NombreAlumno.md)
+> 📑 [C0.1_Integrar Equipos de Trabajo](https://github.com/ShaaronPR/Tareas/blob/main/blog/C0.1_TituloActividad_NombreAlumno.md)
 > 
 > 📑 [C1.1 Cuestionario electrónica básica y sus elementos](https://github.com/ShaaronPR/Tareas/blob/main/blog/C1.1_Cuestionario_electr%C3%B3nica_b%C3%A1sica_y_sus_elementos-Porras_Rangel_Shaaron.md)
 > 
